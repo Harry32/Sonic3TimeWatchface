@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Harry32",
+    "enableMultiJS": true,
+    "longName": "Sonic 3 Time Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/BACKGROUND_01",
+                "name": "BACKGROUND_01",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Sonic 3 Time Watchface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "578a3cba-9f41-4f1c-83d8-91ada8424b74",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
